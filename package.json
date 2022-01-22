@@ -1,0 +1,19 @@
+{
+  "name": "makingvisualswithjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levallevchenko/MakingVisualsWithJS.git"
+  },
+  "author": "Anna Levchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levallevchenko/MakingVisualsWithJS/issues"
+  },
+  "homepage": "https://github.com/levallevchenko/MakingVisualsWithJS#readme"
+}

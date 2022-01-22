@@ -31,5 +31,6 @@ const getSquares = () => {
 
 
 setInterval(() => {
+  context.clearRect(0, 0, canvas.width, canvas.height);
   getSquares();
 }, 1000);
